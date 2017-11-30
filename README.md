@@ -8,6 +8,11 @@ The script will create as many new games as it can (if you have any lives).
 It'll then automatically play any open games.
 
 # **Weekly Stats**
+- ~3200 questions answered/week.
+- ? Coins/week
+- ? Diamonds/week
 
 # **Pictures**
-![jadx-gui screenshot](https://imgur.com/6bScUQL.png)
+<img src="https://imgur.com/nNpvStI.png" width="400" height="700">
+<img src="https://imgur.com/aoNcEIf.png" width="400" height="700">
+<img src="https://imgur.com/kZngkT9.png" width="400" height="700">
