@@ -13,6 +13,7 @@ It'll then automatically play any open games.
 - ? Diamonds/week
 
 # **Pictures**
+*(There are losses most likely from when I used to play on the account myself)*
 <img src="https://imgur.com/nNpvStI.png" width="400" height="700">
 <img src="https://imgur.com/aoNcEIf.png" width="400" height="700">
 <img src="https://imgur.com/kZngkT9.png" width="400" height="700">
