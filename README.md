@@ -6,3 +6,8 @@ Then setup a cron job or something to execute the script however often you want 
 The script will create as many new games as it can (if you have any lives). 
 
 It'll then automatically play any open games.
+
+# **Weekly Stats**
+
+# **Pictures**
+![jadx-gui screenshot](https://imgur.com/6bScUQL.png)
